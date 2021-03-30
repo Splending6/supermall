@@ -1,4 +1,4 @@
-# xmgmail
+# supermall
 
 ## Project setup
 ```
